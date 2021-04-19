@@ -1,0 +1,307 @@
+Teacher:
+Hello everyone. Have a seat. Today, we will be studying lesson 3. What is today’s date? ... Are you okay?
+你们，你好。请坐，请坐。我们今天学第三课。今天是几月几号，星期几？你好吗？
+
+Student:
+(wakes up) Sorry, what did you say?
+对不起，你说什么？
+
+Teacher:
+Which lesson are we studying today?
+我们今天学第几课？
+
+Student:
+We are studying lesson 2.
+我们学第二课。
+
+Teacher:
+Wrong, we are studying lesson 3. What is today’s date?
+不对，我们学第三课。今天是几月几号，星期几？
+
+Student:
+Sorry Professor Hou. Today is April 21st, Wednesday.
+侯老师，对不起。今天是四月二十一号，星期三。
+
+Teacher:
+That’s right. I want to see you at 6PM (after class). ... Can I ask you what your name is?
+对。我晚上六点想和你见面。请问，你姓什么？
+
+Student:
+My name is Zhou.
+我姓周。
+
+Teacher:
+Student Zhou, why were you sleeping here?
+周学生，你为什么在这儿睡觉了？
+
+Student:
+Because I don’t like studying Chinese.
+因为我不喜欢学中文。
+
+Teacher:
+Why don’t you like studying Chinese?
+你为什么不喜欢学中文？
+
+Student:
+Because I feel studying Chinese is not interesting.
+因为我觉得学中文没有意思。
+
+Teacher:
+Do you go to the library (at all) to study Chinese?
+你去图书馆学中文吗？
+
+Student:
+We have a library at school?
+我们的学校有图书馆吗？
+
+Teacher:
+Yes! Oh my goodness. You need to start reading books in the library.
+学校有图书馆！哎呀！你可以在图书馆看书。
+
+Student:
+I am sorry,  I want to do better.
+对不起！对不起！我想表现好点。
+
+Teacher:
+You should study on the weekends too.
+你周末也应该学。
+
+Student:
+I am a new student and I wanted to meet new friends on the weekends.
+我是新学生，我周末想认识新朋友。
+
+Teacher:
+I understand。 I was also a student 20 years ago. What do you like to do on the weekends?
+我知道。二十年前，我也是学生。你周末喜欢做什么？
+
+Student:
+I like to play basketball and dance with girls.
+我喜欢打球还喜欢跳舞。
+
+Teacher:
+How fun! You should play basketball for our school and meet friends here.
+好！你在我们的学校打球吧，在这儿还可以认识新朋友。
+
+Student:
+That is a good idea!
+非常好。
+
+Teacher:
+You play basketball on the weekends, so you have more time to study Chinese Monday, Tuesday, and Wednesday.
+你周末打球，那你星期一，星期二，和星期三有好多时间学中文。
+
+Student:
+Sounds good! I dance on Wednesdays, so I’m busy on Wednesdays.
+好！可是我星期三要跳舞，所以我星期三很忙。
+
+Teacher:
+In that case, let’s go to my house to learn Chinese.
+那，我们去我家学中文吧。
+
+Student:
+Okay… What time are we meeting?
+好。我们几点见？
+
+Teacher:
+Are you busy tonight?
+你今天晚上忙不忙？
+
+Student:
+I am busy tonight, but I am not busy tomorrow.
+我今天晚上很忙，可是明天不忙。
+
+Teacher:
+We’re meeting at 5:30 PM tomorrow, is that okay?
+我们明天晚上五点半见，怎么样？
+
+Student:
+Okay, I’ll see you at 5:30 PM tomorrow.
+好，我们明天晚上五点半见。
+
+Teacher:
+Who is it?
+谁呀？
+
+Student:
+It’s me, De Hui.
+是我，德辉。
+
+Teacher:
+Come in, come in.
+请进，请进。
+
+Student:
+Your house is very pretty...
+你家很漂亮。
+
+Teacher:
+Is that so? Please have a seat. What do you want to drink?
+是吗？请坐，请坐。你想喝点儿什么？
+
+Student:
+Does your house have coffee?
+你家有没有咖啡？
+
+Teacher:
+Sorry, we don’t have coffee.
+对不起，我家没有咖啡。
+
+Student:
+Does your house have tea?
+你家有没有茶？
+
+Teacher:
+Yes, we have tea.
+我家有茶。
+
+Student:
+Then, I’ll have tea. Thank you. Professor Hou, is that your picture?
+那，我喝茶吧。谢谢。侯老师，那是不是你的照片？
+
+Teacher:
+Yes, that is my picture.
+那是我的照片。
+
+Student:
+Who is in this picture?
+这张照片里的人是谁？
+
+Teacher:
+This is my father, mother, and I.
+这是我爸，我妈，和我。
+
+Student:
+What do your father and mother do for work?
+你爸和你妈做什么工作？
+
+Teacher:
+My father is a doctor, and my mother is also a teacher (like me). What about you?
+我爸是医生，我妈也是老师。你呢？
+
+Student:
+My father is also a doctor, but my mother is a worker.
+我爸也是医生，可是我妈是工人。
+
+Teacher:
+Where does your mother work?
+你妈在哪儿工作？
+
+Student:
+My mother works at our school.
+我妈在我们的学校工作。
+
+Student:
+Who else is in your family?
+你家还有谁？
+
+Teacher:
+My family has one older brother and two younger sisters.
+我有一个哥哥和两个妹妹
+
+Student:
+Do you like them?
+你喜欢他们吗？
+
+Teacher:
+I love my brother a lot, because I like to eat his food.
+我很爱我哥，因为我喜欢吃他的菜。
+
+Student:
+What do you all like to eat?
+你们喜欢吃什么？
+
+Teacher:
+I like to eat Chinese and English food.
+我喜欢吃中国菜和英国菜。
+
+Student:
+Why do you not like your two younger sisters?
+为什么你不喜欢你的两个妹妹？
+
+Teacher:
+My two younger sisters don’t ask me to go to their house.
+我的两个妹妹不请我去她们家。
+
+Student:
+I also don’t like my younger sister.
+我也不喜欢我妹。
+
+Teacher:
+Forget it, it’s 6:00 PM. Let’s sing a Chinese song.
+算了，现在晚上六点。我们唱中文歌吧。
+
+Student:
+Singing? But I don’t like singing, so I often don’t sing songs.
+唱歌？我不喜欢唱歌，所以我不常唱歌。
+
+Teacher:
+Forget it, let’s sing.
+算了，我们唱歌吧。
+
+Student:
+Okay, then let’s sing this song.
+好，那我们唱这首歌吧。
+
+Teacher:
+Two tigers,
+两只老虎，
+
+Student:
+Two tigers,
+两只老虎，
+
+Teacher:
+They run fast,
+跑得快，
+
+Student:
+They run fast,
+跑得快，
+
+Teacher:
+One has no eyes,
+一只没有眼睛,
+
+Student:
+One has no tail,
+一只没有尾巴，
+
+Teacher:
+Very weird,
+真奇怪，
+
+Student:
+Very weird.
+真奇怪。
+
+Teacher:
+Two tigers,
+两只老虎，
+
+Student:
+Two tigers,
+两只老虎，
+
+Teacher:
+They run fast,
+跑得快，
+
+Student:
+They run fast,
+跑得快，
+
+Teacher:
+One has no eyes,
+一只没有眼睛,
+
+Student:
+One has no tail,
+一只没有尾巴，
+
+Teacher:
+Very weird,
+真奇怪，
+
+Student:
+Very weird. I like that song. Now I think studying Chinese is interesting.
+真奇怪。我喜欢那首歌。我现在觉得学中文很有意思了。
