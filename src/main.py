@@ -175,7 +175,7 @@ if __name__ == "__main__":
 
   path: str = args.get("path")
   attempts: int = args.get("attempts")
-  language: Language = Language(args.get("language"))
+  language: Language = Language(args.get("language").lower())
   no_display: bool = args.get("no_display")
   speakers: List[str] = list(map(lambda speaker: speaker.lower(),
     args.get("speakers")))
