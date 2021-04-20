@@ -100,6 +100,19 @@ install it - I have a compiled version available right in the root directory
 might see it as a virus of some kind, which apparently happens a ton with
 programs compiled using PyInstaller. Add it as an exception if this happens.
 
+## Running It Directly
+If you can't use the compiled Windows binary or still don't want to compile
+it, you can run `main.py` if you've got a command line and Python 3 (it must
+be 3) installed on your computer - preferably added to PATH variables too.
+You can just run it with the same command line syntax as follows:
+```
+python src/main.py [-h] [-a ATTEMPTS] [-l LANGUAGE] [-n] [-s [SPEAKERS [SPEAKERS ...]]] path
+```
+Or if you have Python added to your PATH variables as `python3`:
+```
+python3 src/main.py [-h] [-a ATTEMPTS] [-l LANGUAGE] [-n] [-s [SPEAKERS [SPEAKERS ...]]] path
+```
+
 ## The Future
 I only started this project for a Chinese class, and I can't foresee myself
 continuing to work on this until I take another foreign language. As a result,
