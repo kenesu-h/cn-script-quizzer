@@ -104,7 +104,8 @@ programs compiled using PyInstaller. Add it as an exception if this happens.
 If you can't use the compiled Windows binary or still don't want to compile
 it, you can run `main.py` if you've got a command line and Python 3 (it must
 be 3) installed on your computer - preferably added to PATH variables too.
-You can just run it with the same command line syntax as follows:
+You can just run it with the same command line syntax as follows, assuming
+your current directory is the root (cn-script-quizzer):
 ```
 python src/main.py [-h] [-a ATTEMPTS] [-l LANGUAGE] [-n] [-s [SPEAKERS [SPEAKERS ...]]] path
 ```
